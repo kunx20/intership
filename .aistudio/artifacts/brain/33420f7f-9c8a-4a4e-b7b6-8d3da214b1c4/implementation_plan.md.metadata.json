@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive architectural and product implementation plan for KisanDrishti (Vidarbha AgroPredict), an enterprise predictive analytics and crop yield forecasting platform designed for agribusiness procurement teams in Nagpur, covering data preparation, leakage-free temporal modeling, SHAP explainability, fairness audits, procurement intelligence, an 8-slide executive findings deck, and forensic error analysis.",
+  "updatedAt":  "2026-11-09T15:02:57.530552687Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

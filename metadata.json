@@ -1,0 +1,6 @@
+{
+  "name": "KisanDrishti - Agri Predictive Analytics",
+  "description": "District-level crop yield prediction, explainable SHAP drivers, and agribusiness procurement optimization across Vidarbha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
